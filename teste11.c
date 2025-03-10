@@ -7,6 +7,7 @@ int main() {
    limite para o tipo int: 2.147.483.647
    short int -> %d ou %hi
    unsigned shor int %hu ou %d
+   unsigned long int %lu
    */
 
    long int x = 2147483647; // 0 .... 4.294.967.295
